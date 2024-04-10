@@ -1,3 +1,3 @@
 # Maha-India-Application
-Maha India Apps
-Download from releases
+**Download MAHA INDIA application from releases**
+<!--Note: This application is created in java by an ICSE student and help from professionals free of cost is highly appreciated -->
