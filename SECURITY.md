@@ -12,5 +12,7 @@
 ## Reporting a Vulnerability
 
 For minor vulnerabilities, we suggest you to use the issue tracker template for security vulnerabilities.
+
 For moderate vulnerabilities, please [Email us](mailto:mahaindia360@gmail.com).
-For severe vulnerabilities, follow the same procedure as for moderate vulnerabilities, but you must include the contact of a non-profit programmer capof resolvthe vu, given that this applhas been created by school st, not professional software developers. 
+
+For severe vulnerabilities, follow the same procedure as for moderate vulnerabilities, but you must include the contact of a non-profit programmer (who won't charge any fees whatsoever)capable of resolving the vulnerability, given that this application has been created by school student, not professional software developers. 
